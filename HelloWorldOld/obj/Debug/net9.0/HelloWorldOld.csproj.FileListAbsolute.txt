@@ -1,0 +1,14 @@
+C:\Users\3488435\OneDrive\Escritorio\CleanArchitecture\HelloWorldOld\bin\Debug\net9.0\HelloWorldOld.exe
+C:\Users\3488435\OneDrive\Escritorio\CleanArchitecture\HelloWorldOld\bin\Debug\net9.0\HelloWorldOld.deps.json
+C:\Users\3488435\OneDrive\Escritorio\CleanArchitecture\HelloWorldOld\bin\Debug\net9.0\HelloWorldOld.runtimeconfig.json
+C:\Users\3488435\OneDrive\Escritorio\CleanArchitecture\HelloWorldOld\bin\Debug\net9.0\HelloWorldOld.dll
+C:\Users\3488435\OneDrive\Escritorio\CleanArchitecture\HelloWorldOld\bin\Debug\net9.0\HelloWorldOld.pdb
+C:\Users\3488435\OneDrive\Escritorio\CleanArchitecture\HelloWorldOld\obj\Debug\net9.0\HelloWorldOld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3488435\OneDrive\Escritorio\CleanArchitecture\HelloWorldOld\obj\Debug\net9.0\HelloWorldOld.AssemblyInfoInputs.cache
+C:\Users\3488435\OneDrive\Escritorio\CleanArchitecture\HelloWorldOld\obj\Debug\net9.0\HelloWorldOld.AssemblyInfo.cs
+C:\Users\3488435\OneDrive\Escritorio\CleanArchitecture\HelloWorldOld\obj\Debug\net9.0\HelloWorldOld.csproj.CoreCompileInputs.cache
+C:\Users\3488435\OneDrive\Escritorio\CleanArchitecture\HelloWorldOld\obj\Debug\net9.0\HelloWorldOld.dll
+C:\Users\3488435\OneDrive\Escritorio\CleanArchitecture\HelloWorldOld\obj\Debug\net9.0\refint\HelloWorldOld.dll
+C:\Users\3488435\OneDrive\Escritorio\CleanArchitecture\HelloWorldOld\obj\Debug\net9.0\HelloWorldOld.pdb
+C:\Users\3488435\OneDrive\Escritorio\CleanArchitecture\HelloWorldOld\obj\Debug\net9.0\HelloWorldOld.genruntimeconfig.cache
+C:\Users\3488435\OneDrive\Escritorio\CleanArchitecture\HelloWorldOld\obj\Debug\net9.0\ref\HelloWorldOld.dll
