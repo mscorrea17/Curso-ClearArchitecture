@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\HelloWorldOld",
-    "\\MyConsole"
+    "\\Demo02",
+    "\\Demo02\\MyLibrary"
   ],
-  "SelectedNode": "\\HelloWorldOld\\Program.cs",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
