@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\3488435\\OneDrive\\Escritorio\\ARQUITECTURA DE SOFTWARE\\CleanArchitecture\\Demo02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4F75DBA-0769-4F0C-9AB5-2A8C302B6730}|MyLibrary\\MyLibrary.csproj|c:\\users\\3488435\\onedrive\\escritorio\\arquitectura de software\\cleanarchitecture\\demo02\\mylibrary\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4F75DBA-0769-4F0C-9AB5-2A8C302B6730}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A16A208B-17EA-4AF4-808E-0263E13C9389}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\3488435\\onedrive\\escritorio\\arquitectura de software\\cleanarchitecture\\demo02\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16A208B-17EA-4AF4-808E-0263E13C9389}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4F75DBA-0769-4F0C-9AB5-2A8C302B6730}|MyLibrary\\MyLibrary.csproj|c:\\users\\3488435\\onedrive\\escritorio\\arquitectura de software\\cleanarchitecture\\demo02\\mylibrary\\mylibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C4F75DBA-0769-4F0C-9AB5-2A8C302B6730}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\mylibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C4F75DBA-0769-4F0C-9AB5-2A8C302B6730}|MyLibrary\\MyLibrary.csproj|c:\\users\\3488435\\onedrive\\escritorio\\arquitectura de software\\cleanarchitecture\\demo02\\mylibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F75DBA-0769-4F0C-9AB5-2A8C302B6730}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F75DBA-0769-4F0C-9AB5-2A8C302B6730}|MyLibrary\\MyLibrary.csproj|c:\\users\\3488435\\onedrive\\escritorio\\arquitectura de software\\cleanarchitecture\\demo02\\mylibrary\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F75DBA-0769-4F0C-9AB5-2A8C302B6730}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4F75DBA-0769-4F0C-9AB5-2A8C302B6730}|MyLibrary\\MyLibrary.csproj|c:\\users\\3488435\\onedrive\\escritorio\\arquitectura de software\\cleanarchitecture\\demo02\\mylibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,16 +29,8 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\3488435\\OneDrive\\Escritorio\\ARQUITECTURA DE SOFTWARE\\CleanArchitecture\\Demo02\\MyLibrary\\Book.cs",
               "RelativeDocumentMoniker": "MyLibrary\\Book.cs",
@@ -47,28 +43,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MyLibrary.csproj",
-              "DocumentMoniker": "C:\\Users\\3488435\\OneDrive\\Escritorio\\ARQUITECTURA DE SOFTWARE\\CleanArchitecture\\Demo02\\MyLibrary\\MyLibrary.csproj",
-              "RelativeDocumentMoniker": "MyLibrary\\MyLibrary.csproj",
-              "ToolTip": "C:\\Users\\3488435\\OneDrive\\Escritorio\\ARQUITECTURA DE SOFTWARE\\CleanArchitecture\\Demo02\\MyLibrary\\MyLibrary.csproj",
-              "RelativeToolTip": "MyLibrary\\MyLibrary.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-18T19:45:43.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\3488435\\OneDrive\\Escritorio\\ARQUITECTURA DE SOFTWARE\\CleanArchitecture\\Demo02\\MyLibrary\\Product.cs",
               "RelativeDocumentMoniker": "MyLibrary\\Product.cs",
               "ToolTip": "C:\\Users\\3488435\\OneDrive\\Escritorio\\ARQUITECTURA DE SOFTWARE\\CleanArchitecture\\Demo02\\MyLibrary\\Product.cs",
               "RelativeToolTip": "MyLibrary\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T19:42:04.361Z"
+              "WhenOpened": "2025-04-24T13:54:37.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\3488435\\OneDrive\\Escritorio\\ARQUITECTURA DE SOFTWARE\\CleanArchitecture\\Demo02\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\3488435\\OneDrive\\Escritorio\\ARQUITECTURA DE SOFTWARE\\CleanArchitecture\\Demo02\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:45:45.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\3488435\\OneDrive\\Escritorio\\ARQUITECTURA DE SOFTWARE\\CleanArchitecture\\Demo02\\MyLibrary\\Employee.cs",
+              "RelativeDocumentMoniker": "MyLibrary\\Employee.cs",
+              "ToolTip": "C:\\Users\\3488435\\OneDrive\\Escritorio\\ARQUITECTURA DE SOFTWARE\\CleanArchitecture\\Demo02\\MyLibrary\\Employee.cs",
+              "RelativeToolTip": "MyLibrary\\Employee.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T20:47:49.97Z",
+              "EditorCaption": ""
             }
           ]
         }
