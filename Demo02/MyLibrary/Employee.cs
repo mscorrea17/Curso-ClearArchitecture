@@ -14,6 +14,10 @@ public abstract class Employee
     {
         return 12000;
     }
+    public int GetPaymentDays()
+    {
+        return 30;
+    }
 }
 
 public class Secretary : Employee
@@ -30,6 +34,10 @@ public class Manager : Employee
 }
 public class Developer : Employee
     {
+        public new int GetPaymentDays()
+    {
+        return 20;
     }
+}
 
 
