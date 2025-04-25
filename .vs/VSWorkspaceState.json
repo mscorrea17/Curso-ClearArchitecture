@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Demo02",
-    "\\Demo02\\MyLibrary"
+    "\\NorthWind",
+    "\\NorthWind\\NorthWind.Entities",
+    "\\NorthWind\\NorthWind.Entities\\Interfaces"
   ],
-  "SelectedNode": "\\Demo02\\MyLibrary\\Book.cs",
+  "SelectedNode": "\\NorthWind\\NorthWind.Entities\\Interfaces\\IUserActionWriter.cs",
   "PreviewInSolutionExplorer": false
 }
