@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\NorthWind",
-    "\\NorthWind\\NorthWind.Entities",
-    "\\NorthWind\\NorthWind.Entities\\Interfaces"
+    "\\NorthWind\\NorthWind.Entities"
   ],
-  "SelectedNode": "\\NorthWind\\NorthWind.Entities\\Interfaces\\IUserActionWriter.cs",
+  "SelectedNode": "\\NorthWind\\NorthWind.sln",
   "PreviewInSolutionExplorer": false
 }
