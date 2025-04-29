@@ -1,12 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\NorthWind",
+    "\\LabScript",
+    "\\LabScript\\Pages",
     "\\NorthWind\\NorthWind.ConsoleApp",
-    "\\NorthWind\\NorthWind.Entities\\Interfaces",
-    "\\NorthWind\\NorthWind.Entities\\ValueObjects",
     "\\NorthWind\\NorthWind.Writers"
   ],
-  "SelectedNode": "\\NorthWind\\NorthWind.sln",
+  "SelectedNode": "\\LabScript\\Pages\\Counter.razor",
   "PreviewInSolutionExplorer": false
 }
