@@ -2,7 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\NorthWind",
-    "\\NorthWind\\NorthWind.Entities"
+    "\\NorthWind\\NorthWind.ConsoleApp",
+    "\\NorthWind\\NorthWind.Entities\\Interfaces",
+    "\\NorthWind\\NorthWind.Entities\\ValueObjects",
+    "\\NorthWind\\NorthWind.Writers"
   ],
   "SelectedNode": "\\NorthWind\\NorthWind.sln",
   "PreviewInSolutionExplorer": false

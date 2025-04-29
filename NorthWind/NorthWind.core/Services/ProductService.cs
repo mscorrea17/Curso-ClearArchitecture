@@ -3,7 +3,7 @@ using NorthWind.Entities.ValueObjects;
 
 namespace NorthWind.ConsoleApp.Services;
 
-internal class ProductService(IUserActionWriter writer)
+internal class ProductService(IUserActionWriter writer): IProductService
 {
     public void Add(string user, string productName)
     {
@@ -11,3 +11,4 @@ internal class ProductService(IUserActionWriter writer)
         writer.Write(Action);
     }
 }
+

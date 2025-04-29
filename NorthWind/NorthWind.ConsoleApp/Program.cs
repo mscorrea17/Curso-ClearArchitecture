@@ -1,19 +1,18 @@
-﻿using NorthWind.ConsoleApp.Services;
-using NorthWind.Entities.Interfaces;
-using NorthWind.Writers;
+﻿HostApplicationBuilder Builder = Host.CreateApplicationBuilder();
 
-IUserActionWriter Writer = new FileWriter();
+Builder.Services.AddNorthWindServices();
 
-AppLogger Logger = new AppLogger(Writer);
+using IHost AppHost = Builder.Build();
+
+IAppLogger Logger = AppHost.Services.GetRequiredService<IAppLogger>();
 Logger.WriteLog("Application started.");
 
-ProductService Service = new ProductService(Writer);
+IProductService Service = AppHost.Services.GetRequiredService<IProductService>();
 Service.Add("Demo", "Azúcar refinada");
 
 /*
- * AppLoger y los Writers: Responsabilidad unica
+ * AppLogger y los Writers: Responsabilidad única
  * AppLogger: Abierto pero cerrado
- * AppLogger: Inversion de dependencias. los modulos
- * de alto nivel son independientes de los detalles de implementacion.
- * 
- * */
+ * AppLogger: Inversión de dependencias. Los módulos
+ * de alto nivel son independientes de los detalles de implementación.
+ */
